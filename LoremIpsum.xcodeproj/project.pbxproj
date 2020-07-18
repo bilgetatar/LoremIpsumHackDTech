@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3C24C3607500DAD055 /* LoginViewController.swift */; };
+		176BCE3F24C364C800DAD055 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3E24C364C800DAD055 /* SignUpViewController.swift */; };
+		176BCE4124C3654000DAD055 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4024C3654000DAD055 /* AboutViewController.swift */; };
+		176BCE4324C3659100DAD055 /* BeginQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4224C3659100DAD055 /* BeginQuizViewController.swift */; };
+		176BCE4524C365CC00DAD055 /* Bias QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4424C365CC00DAD055 /* Bias QuizViewController.swift */; };
+		176BCE4724C365F500DAD055 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4624C365F500DAD055 /* HomeViewController.swift */; };
+		176BCE4924C3660800DAD055 /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4824C3660800DAD055 /* ExploreViewController.swift */; };
+		176BCE4B24C3661E00DAD055 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4A24C3661E00DAD055 /* ProfileViewController.swift */; };
+		176BCE4D24C3665500DAD055 /* ModuleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4C24C3665500DAD055 /* ModuleViewController.swift */; };
+		176BCE4F24C3666100DAD055 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4E24C3666100DAD055 /* SettingsViewController.swift */; };
+		176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5024C3667D00DAD055 /* ForumViewController.swift */; };
+		176BCE5324C3668700DAD055 /* ResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5224C3668700DAD055 /* ResourcesViewController.swift */; };
 		F3C85A0324C3011F004DBCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */; };
 		F3C85A0524C3011F004DBCB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */; };
 		F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0624C3011F004DBCB4 /* ViewController.swift */; };
@@ -16,6 +28,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		176BCE3C24C3607500DAD055 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		176BCE3E24C364C800DAD055 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		176BCE4024C3654000DAD055 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		176BCE4224C3659100DAD055 /* BeginQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeginQuizViewController.swift; sourceTree = "<group>"; };
+		176BCE4424C365CC00DAD055 /* Bias QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bias QuizViewController.swift"; sourceTree = "<group>"; };
+		176BCE4624C365F500DAD055 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		176BCE4824C3660800DAD055 /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		176BCE4A24C3661E00DAD055 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		176BCE4C24C3665500DAD055 /* ModuleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleViewController.swift; sourceTree = "<group>"; };
+		176BCE4E24C3666100DAD055 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		176BCE5024C3667D00DAD055 /* ForumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForumViewController.swift; sourceTree = "<group>"; };
+		176BCE5224C3668700DAD055 /* ResourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesViewController.swift; sourceTree = "<group>"; };
 		F3C859FF24C3011F004DBCB4 /* LoremIpsum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoremIpsum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +84,18 @@
 				F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */,
 				F3C85A0624C3011F004DBCB4 /* ViewController.swift */,
 				F3C85A0824C3011F004DBCB4 /* Main.storyboard */,
+				176BCE5024C3667D00DAD055 /* ForumViewController.swift */,
+				176BCE5224C3668700DAD055 /* ResourcesViewController.swift */,
+				176BCE4C24C3665500DAD055 /* ModuleViewController.swift */,
+				176BCE4E24C3666100DAD055 /* SettingsViewController.swift */,
+				176BCE4824C3660800DAD055 /* ExploreViewController.swift */,
+				176BCE4A24C3661E00DAD055 /* ProfileViewController.swift */,
+				176BCE4624C365F500DAD055 /* HomeViewController.swift */,
+				176BCE4424C365CC00DAD055 /* Bias QuizViewController.swift */,
+				176BCE4224C3659100DAD055 /* BeginQuizViewController.swift */,
+				176BCE4024C3654000DAD055 /* AboutViewController.swift */,
+				176BCE3E24C364C800DAD055 /* SignUpViewController.swift */,
+				176BCE3C24C3607500DAD055 /* LoginViewController.swift */,
 				F3C85A0B24C30122004DBCB4 /* Assets.xcassets */,
 				F3C85A0D24C30122004DBCB4 /* LaunchScreen.storyboard */,
 				F3C85A1024C30122004DBCB4 /* Info.plist */,
@@ -138,9 +174,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				176BCE5324C3668700DAD055 /* ResourcesViewController.swift in Sources */,
+				176BCE4124C3654000DAD055 /* AboutViewController.swift in Sources */,
+				176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */,
+				176BCE4D24C3665500DAD055 /* ModuleViewController.swift in Sources */,
+				176BCE4924C3660800DAD055 /* ExploreViewController.swift in Sources */,
+				176BCE4324C3659100DAD055 /* BeginQuizViewController.swift in Sources */,
 				F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */,
+				176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */,
 				F3C85A0324C3011F004DBCB4 /* AppDelegate.swift in Sources */,
+				176BCE4B24C3661E00DAD055 /* ProfileViewController.swift in Sources */,
+				176BCE4724C365F500DAD055 /* HomeViewController.swift in Sources */,
 				F3C85A0524C3011F004DBCB4 /* SceneDelegate.swift in Sources */,
+				176BCE4F24C3666100DAD055 /* SettingsViewController.swift in Sources */,
+				176BCE3F24C364C800DAD055 /* SignUpViewController.swift in Sources */,
+				176BCE4524C365CC00DAD055 /* Bias QuizViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
