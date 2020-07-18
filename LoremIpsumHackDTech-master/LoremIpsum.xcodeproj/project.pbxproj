@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		173F4BA224C3945B00E68D4F /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA124C3945B00E68D4F /* download.jpeg */; };
+		173F4BA424C394A700E68D4F /* fruitvale-station-poster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */; };
+		173F4BA624C395B400E68D4F /* Artwork - WTSU.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */; };
+		173F4BA824C3967500E68D4F /* flat,750x1000,075,f.u1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */; };
+		173F4BAA24C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */; };
+		173F4BAC24C3A7F700E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */; };
+		173F4BAE24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */; };
+		173F4BB024C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */; };
+		173F4BB224C3AADD00E68D4F /* 268x0w.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BB124C3AADD00E68D4F /* 268x0w.jpg */; };
+		173F4BB424C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */; };
 		176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3C24C3607500DAD055 /* LoginViewController.swift */; };
 		176BCE3F24C364C800DAD055 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3E24C364C800DAD055 /* SignUpViewController.swift */; };
 		176BCE4124C3654000DAD055 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4024C3654000DAD055 /* AboutViewController.swift */; };
@@ -28,6 +38,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		173F4BA124C3945B00E68D4F /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
+		173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fruitvale-station-poster.jpg"; sourceTree = "<group>"; };
+		173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Artwork - WTSU.jpg"; sourceTree = "<group>"; };
+		173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "flat,750x1000,075,f.u1.jpg"; sourceTree = "<group>"; };
+		173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg"; sourceTree = "<group>"; };
+		173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg"; sourceTree = "<group>"; };
+		173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "71T+OLf3zdL._AC_SY606_.jpg"; sourceTree = "<group>"; };
+		173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg"; sourceTree = "<group>"; };
+		173F4BB124C3AADD00E68D4F /* 268x0w.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 268x0w.jpg; sourceTree = "<group>"; };
+		173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NPR_Code_Switch_cover_art.png; sourceTree = "<group>"; };
 		176BCE3C24C3607500DAD055 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		176BCE3E24C364C800DAD055 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		176BCE4024C3654000DAD055 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +86,16 @@
 			children = (
 				F3C85A0124C3011F004DBCB4 /* LoremIpsum */,
 				F3C85A0024C3011F004DBCB4 /* Products */,
+				173F4BA124C3945B00E68D4F /* download.jpeg */,
+				173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */,
+				173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */,
+				173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */,
+				173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */,
+				173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */,
+				173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */,
+				173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */,
+				173F4BB124C3AADD00E68D4F /* 268x0w.jpg */,
+				173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -161,9 +191,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				173F4BA824C3967500E68D4F /* flat,750x1000,075,f.u1.jpg in Resources */,
+				173F4BB424C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png in Resources */,
 				F3C85A0F24C30122004DBCB4 /* LaunchScreen.storyboard in Resources */,
+				173F4BAC24C3A7F700E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg in Resources */,
+				173F4BA624C395B400E68D4F /* Artwork - WTSU.jpg in Resources */,
+				173F4BB224C3AADD00E68D4F /* 268x0w.jpg in Resources */,
+				173F4BAA24C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg in Resources */,
+				173F4BB024C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg in Resources */,
+				173F4BAE24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg in Resources */,
+				173F4BA224C3945B00E68D4F /* download.jpeg in Resources */,
 				F3C85A0C24C30122004DBCB4 /* Assets.xcassets in Resources */,
 				F3C85A0A24C3011F004DBCB4 /* Main.storyboard in Resources */,
+				173F4BA424C394A700E68D4F /* fruitvale-station-poster.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

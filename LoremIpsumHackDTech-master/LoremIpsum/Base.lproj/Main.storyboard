@@ -277,21 +277,188 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Resources" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6dZ-x6-I5m">
-                                <rect key="frame" x="116" y="391" width="182" height="114"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="     " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ofL-ZP-CCK">
+                                <rect key="frame" x="0.0" y="127" width="414" height="779"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="130"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="Artwork - WTSU.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Bpq-dE-Bkf">
+                                <rect key="frame" x="155" y="416" width="100" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="fruitvale-station-poster.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="985-tD-tnL">
+                                <rect key="frame" x="18" y="179" width="100" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="flat,750x1000,075,f.u1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="q8U-jB-g8x">
+                                <rect key="frame" x="282" y="179" width="109" height="128"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Fruitvale Station" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="F2P-nd-anJ">
+                                <rect key="frame" x="11" y="315" width="115" height="32"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="When They See Us" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="XrS-hF-15c">
+                                <rect key="frame" x="149" y="552" width="115" height="49.5"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Movies" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vle-W8-cbw">
+                                <rect key="frame" x="0.0" y="127" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.61960784310000006" green="0.36470588240000001" blue="0.59215686270000001" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="TV Shows/Documentaries" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBI-NN-NVz">
+                                <rect key="frame" x="0.0" y="364" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.61960784310000006" green="0.36470588240000001" blue="0.59215686270000001" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Podcasts" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qm9-qu-o0C">
+                                <rect key="frame" x="0.0" y="608" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.61960784310000006" green="0.36470588240000001" blue="0.59215686270000001" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                                <color key="shadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Resources" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ftg-5z-tiL">
+                                <rect key="frame" x="133" y="73" width="148" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="B2Y-AK-Vuc">
+                                <rect key="frame" x="18" y="416" width="104" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="NPR_Code_Switch_cover_art.png" translatesAutoresizingMaskIntoConstraints="NO" id="KwH-j1-dMP">
+                                <rect key="frame" x="20" y="676" width="104" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="GY0-FE-omk">
+                                <rect key="frame" x="155" y="676" width="104" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="268x0w.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Kja-gL-aPf">
+                                <rect key="frame" x="290" y="676" width="104" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="71T+OLf3zdL._AC_SY606_.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="2oS-Vd-jdl">
+                                <rect key="frame" x="155" y="179" width="104" height="128"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" image="MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="ZZV-YC-J7X">
+                                <rect key="frame" x="288" y="416" width="104" height="128"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="The Hate U Give" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="7pu-Oi-PCq">
+                                <rect key="frame" x="149" y="315" width="117" height="31"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Time: The Kalief Browder Story" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="cYg-ga-aiW">
+                                <rect key="frame" x="285" y="550" width="115" height="49.5"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="13th" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="qKJ-vB-ocV">
+                                <rect key="frame" x="49" y="552" width="38.5" height="33"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="camera" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="x1Q-WL-Hip">
+                                <rect key="frame" x="19" y="137" width="24" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="NPR's Code Switch" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="sWX-h7-hEf">
+                                <rect key="frame" x="20" y="804" width="98" height="47"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Blurred Lines" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="HDh-3L-bXj">
+                                <rect key="frame" x="288" y="809" width="98" height="36"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="tv" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="KGJ-FJ-5bZ">
+                                <rect key="frame" x="18" y="375.5" width="26" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="headphones" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Rrv-ti-K3T">
+                                <rect key="frame" x="20" y="620" width="22" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <rect key="contentStretch" x="1" y="1" width="1" height="1"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Criminal Injustice" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="t7p-SZ-XKb">
+                                <rect key="frame" x="146" y="809" width="123" height="36"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" text="Do the Right Thing" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="SjP-eZ-D3b">
+                                <rect key="frame" x="279" y="310" width="115" height="41"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Bpq-dE-Bkf" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="372" id="0ul-lq-UT6"/>
+                            <constraint firstItem="KwH-j1-dMP" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="632" id="3MM-lO-exm"/>
+                            <constraint firstItem="HDh-3L-bXj" firstAttribute="top" secondItem="Kja-gL-aPf" secondAttribute="bottom" constant="5" id="3vL-EG-7ks"/>
+                            <constraint firstItem="q8U-jB-g8x" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="135" id="4rx-SJ-d15"/>
+                            <constraint firstItem="B2Y-AK-Vuc" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="372" id="94d-PH-YMq"/>
+                            <constraint firstItem="cYg-ga-aiW" firstAttribute="top" secondItem="ZZV-YC-J7X" secondAttribute="bottom" constant="6" id="9Hp-HS-wUk"/>
+                            <constraint firstItem="985-tD-tnL" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="135" id="9PL-gJ-aph"/>
+                            <constraint firstItem="qKJ-vB-ocV" firstAttribute="top" secondItem="B2Y-AK-Vuc" secondAttribute="bottom" constant="8" id="AjP-6V-1AU"/>
+                            <constraint firstItem="7pu-Oi-PCq" firstAttribute="top" secondItem="2oS-Vd-jdl" secondAttribute="bottom" constant="8" id="CUw-Zy-gVl"/>
+                            <constraint firstItem="XrS-hF-15c" firstAttribute="firstBaseline" secondItem="Bpq-dE-Bkf" secondAttribute="baseline" constant="21" symbolType="layoutAnchor" id="DLt-uE-ov3"/>
+                            <constraint firstItem="2oS-Vd-jdl" firstAttribute="top" secondItem="Ftg-5z-tiL" secondAttribute="bottom" constant="70" id="IGS-ND-UbJ"/>
+                            <constraint firstItem="Kja-gL-aPf" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="632" id="MlO-TZ-Uiy"/>
+                            <constraint firstItem="t7p-SZ-XKb" firstAttribute="top" secondItem="GY0-FE-omk" secondAttribute="bottom" constant="5" id="OZJ-oL-lbq"/>
+                            <constraint firstItem="SjP-eZ-D3b" firstAttribute="top" secondItem="q8U-jB-g8x" secondAttribute="bottom" constant="3" id="RKz-ai-RfG"/>
+                            <constraint firstItem="ofL-ZP-CCK" firstAttribute="leading" secondItem="qKJ-vB-ocV" secondAttribute="trailing" constant="-87.5" id="Tct-sy-LSR"/>
+                            <constraint firstItem="t7p-SZ-XKb" firstAttribute="top" secondItem="GY0-FE-omk" secondAttribute="bottom" constant="5" id="YQt-jJ-F0R"/>
+                            <constraint firstItem="ZZV-YC-J7X" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="372" id="YZc-u9-2xI"/>
+                            <constraint firstItem="SjP-eZ-D3b" firstAttribute="leading" secondItem="ofL-ZP-CCK" secondAttribute="trailing" constant="-135" id="auC-BT-SZQ"/>
+                            <constraint firstItem="cYg-ga-aiW" firstAttribute="leading" secondItem="ofL-ZP-CCK" secondAttribute="trailing" constant="-129" id="dcV-BH-jMv"/>
+                            <constraint firstItem="HDh-3L-bXj" firstAttribute="top" secondItem="Kja-gL-aPf" secondAttribute="bottom" constant="5" id="hg4-6J-7pD"/>
+                            <constraint firstItem="ofL-ZP-CCK" firstAttribute="leading" secondItem="sWX-h7-hEf" secondAttribute="trailing" constant="-118" id="nCS-Wy-nQd"/>
+                            <constraint firstItem="F2P-nd-anJ" firstAttribute="top" secondItem="985-tD-tnL" secondAttribute="bottom" constant="8" id="szS-JS-Pwi"/>
+                            <constraint firstItem="GY0-FE-omk" firstAttribute="top" secondItem="OWZ-OA-Rnz" secondAttribute="top" constant="632" id="uYr-C6-7eu"/>
+                            <constraint firstItem="sWX-h7-hEf" firstAttribute="top" secondItem="KwH-j1-dMP" secondAttribute="bottom" id="z9T-N2-fta"/>
+                            <constraint firstItem="ofL-ZP-CCK" firstAttribute="leading" secondItem="F2P-nd-anJ" secondAttribute="trailing" constant="-126" id="zdi-wu-vUu"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="OWZ-OA-Rnz"/>
                     </view>
+                    <navigationItem key="navigationItem" title="Title" id="X1y-3d-dwe"/>
+                    <connections>
+                        <outlet property="DoRight" destination="SjP-eZ-D3b" id="acY-Qr-ckD"/>
+                        <outlet property="FruitVale" destination="F2P-nd-anJ" id="kWI-q4-etG"/>
+                        <outlet property="WhenTheySeeUs" destination="XrS-hF-15c" id="CAU-j1-Klf"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eXp-PF-1pE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1809" y="1756"/>
+            <point key="canvasLocation" x="1808.6956521739132" y="1755.8035714285713"/>
         </scene>
         <!--Forum Page-->
         <scene sceneID="DML-Ao-k0I">
@@ -319,7 +486,19 @@
         </scene>
     </scenes>
     <resources>
+        <image name="268x0w.jpg" width="268" height="268"/>
+        <image name="53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg" width="3000" height="3000"/>
+        <image name="71T+OLf3zdL._AC_SY606_.jpg" width="444" height="606"/>
+        <image name="Artwork - WTSU.jpg" width="426" height="597"/>
+        <image name="MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg" width="1382" height="2048"/>
+        <image name="MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg" width="630" height="1200"/>
+        <image name="NPR_Code_Switch_cover_art.png" width="52.799999237060547" height="52.799999237060547"/>
+        <image name="camera" catalog="system" width="128" height="96"/>
+        <image name="flat,750x1000,075,f.u1.jpg" width="750" height="920"/>
+        <image name="fruitvale-station-poster.jpg" width="737.280029296875" height="1091.52001953125"/>
+        <image name="headphones" catalog="system" width="128" height="107"/>
         <image name="house.fill" catalog="system" width="128" height="106"/>
         <image name="person.fill" catalog="system" width="128" height="120"/>
+        <image name="tv" catalog="system" width="128" height="93"/>
     </resources>
 </document>
