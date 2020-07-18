@@ -34,7 +34,7 @@
         <!--Sign-Up-->
         <scene sceneID="jTV-MI-iA9">
             <objects>
-                <viewController title="Sign-Up" id="QrE-1D-n3L" customClass="SignUpViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Sign-Up" id="QrE-1D-n3L" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="bg3-G3-0nJ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -58,7 +58,7 @@
         <!--Explore-->
         <scene sceneID="PYP-Sg-eb0">
             <objects>
-                <viewController title="Explore" id="r7c-EK-kvY" customClass="ExploreViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Explore" id="r7c-EK-kvY" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lDF-Eh-x2C">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -83,7 +83,7 @@
         <!--Module Page-->
         <scene sceneID="L56-ar-QDp">
             <objects>
-                <viewController title="Module Page" id="87D-tf-ZYy" customClass="ModuleViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Module Page" id="87D-tf-ZYy" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="m2Q-Xq-seA">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -107,7 +107,7 @@
         <!--Home-->
         <scene sceneID="0eS-1D-Hmm">
             <objects>
-                <viewController title="Home" id="LaJ-n5-Pra" customClass="HomeViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Home" id="LaJ-n5-Pra" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lht-Gk-F6f">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -151,7 +151,7 @@
         <!--About Page-->
         <scene sceneID="hfU-Di-KVK">
             <objects>
-                <viewController title="About Page" id="oJv-Zu-Nmw" customClass="AboutViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="About Page" id="oJv-Zu-Nmw" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="6RU-YA-U6U">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -175,7 +175,7 @@
         <!--Begin(Quiz/Resources)-->
         <scene sceneID="koS-L7-lWC">
             <objects>
-                <viewController title="Begin(Quiz/Resources)" id="Tjy-wX-6HD" customClass="BeginQuizViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Begin(Quiz/Resources)" id="Tjy-wX-6HD" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tut-gn-IYh">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -199,7 +199,7 @@
         <!--Profile-->
         <scene sceneID="4cb-eF-RbZ">
             <objects>
-                <viewController title="Profile" id="a0D-DN-fdv" customClass="ProfileViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Profile" id="a0D-DN-fdv" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="KCo-we-HBm">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -224,7 +224,7 @@
         <!--Settings-->
         <scene sceneID="03I-ZV-2Rc">
             <objects>
-                <viewController title="Settings" id="iFc-x9-enp" customClass="SettingsViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Settings" id="iFc-x9-enp" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XBs-qR-t4k">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -248,7 +248,7 @@
         <!--Bias Quiz-->
         <scene sceneID="kOu-Jq-prC">
             <objects>
-                <viewController title="Bias Quiz" id="AkM-hL-q45" customClass="Bias_QuizViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Bias Quiz" id="AkM-hL-q45" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="er9-da-dHZ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -272,7 +272,7 @@
         <!--Resource Page-->
         <scene sceneID="g7E-5e-PHy">
             <objects>
-                <viewController title="Resource Page" id="mpd-ad-2Oh" customClass="ResourcesViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Resource Page" id="mpd-ad-2Oh" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lIz-yf-MNO">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -291,12 +291,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eXp-PF-1pE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1809" y="1756"/>
+            <point key="canvasLocation" x="1843.4782608695652" y="1755.8035714285713"/>
         </scene>
         <!--Forum Page-->
         <scene sceneID="DML-Ao-k0I">
             <objects>
-                <viewController title="Forum Page" id="Jsb-2F-uNM" customClass="ForumViewController" customModule="LoremIpsum" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Forum Page" id="Jsb-2F-uNM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="FY6-wL-4hW">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -316,53 +316,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Xme-yG-Nzg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1809" y="2474"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="XTT-fP-eNU">
-            <objects>
-                <viewController id="HlH-50-0OF" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="LGa-N7-gax">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Implicit Bias Quiz" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s21-FI-SaQ">
-                                <rect key="frame" x="103" y="155" width="209" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="25"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="syy-pt-YsL">
-                                <rect key="frame" x="52" y="226" width="310" height="164"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">On the next page, you'll be asked to take an implicit bias test, based off of the Implicit Association Test (IAT) from Project Implicit. The goal of the IAT is to help identify your own hidden biases and attitudes/beliefs around certain topics regarding race.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="DATA PRIVACY: All data exchanged in the quiz will be protected by encryption and kept confidential and anonymous." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g8S-bv-jGa">
-                                <rect key="frame" x="52" y="398" width="310" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3TN-q4-wpc">
-                                <rect key="frame" x="52" y="534" width="310" height="148"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">DISCLAIMER: The results of this quiz will be calculated from interpretations based on research, but we make no claim for the validity of these suggested interpretations.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
-                        <viewLayoutGuide key="safeArea" id="ILX-IZ-Cfh"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="30W-og-C5x" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="137.68115942028987" y="924.77678571428567"/>
         </scene>
     </scenes>
     <resources>
