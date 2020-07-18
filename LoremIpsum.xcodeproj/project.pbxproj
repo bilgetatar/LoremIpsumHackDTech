@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -21,6 +21,7 @@
 		176BCE5324C3668700DAD055 /* ResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5224C3668700DAD055 /* ResourcesViewController.swift */; };
 		BA1C713CA87823118897ABA9 /* Pods_LoremIpsum.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */; };
 		F398AC2C24C3BE1700968761 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */; };
+		F398AC2E24C3BFF400968761 /* MainForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F398AC2D24C3BFF400968761 /* MainForumViewController.swift */; };
 		F3C85A0324C3011F004DBCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */; };
 		F3C85A0524C3011F004DBCB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */; };
 		F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0624C3011F004DBCB4 /* ViewController.swift */; };
@@ -46,6 +47,7 @@
 		1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoremIpsum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoremIpsum.release.xcconfig"; path = "Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum.release.xcconfig"; sourceTree = "<group>"; };
 		F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F398AC2D24C3BFF400968761 /* MainForumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainForumViewController.swift; sourceTree = "<group>"; };
 		F3C859FF24C3011F004DBCB4 /* LoremIpsum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoremIpsum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,7 +84,6 @@
 				1A2EA0967C56ED772ADB8B42 /* Pods-LoremIpsum.debug.xcconfig */,
 				BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -111,6 +112,7 @@
 				F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */,
 				F3C85A0624C3011F004DBCB4 /* ViewController.swift */,
 				F3C85A0824C3011F004DBCB4 /* Main.storyboard */,
+				F398AC2D24C3BFF400968761 /* MainForumViewController.swift */,
 				176BCE5024C3667D00DAD055 /* ForumViewController.swift */,
 				176BCE5224C3668700DAD055 /* ResourcesViewController.swift */,
 				176BCE4C24C3665500DAD055 /* ModuleViewController.swift */,
@@ -252,6 +254,7 @@
 				176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */,
 				176BCE4D24C3665500DAD055 /* ModuleViewController.swift in Sources */,
 				176BCE4924C3660800DAD055 /* ExploreViewController.swift in Sources */,
+				F398AC2E24C3BFF400968761 /* MainForumViewController.swift in Sources */,
 				176BCE4324C3659100DAD055 /* BeginQuizViewController.swift in Sources */,
 				F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */,
 				176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */,
