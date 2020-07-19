@@ -3,10 +3,20 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		173F4BA224C3945B00E68D4F /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA124C3945B00E68D4F /* download.jpeg */; };
+		173F4BA424C394A700E68D4F /* fruitvale-station-poster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */; };
+		173F4BA624C395B400E68D4F /* Artwork - WTSU.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */; };
+		173F4BA824C3967500E68D4F /* flat,750x1000,075,f.u1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */; };
+		173F4BAA24C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */; };
+		173F4BAC24C3A7F700E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */; };
+		173F4BAE24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */; };
+		173F4BB024C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */; };
+		173F4BB224C3AADD00E68D4F /* 268x0w.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BB124C3AADD00E68D4F /* 268x0w.jpg */; };
+		173F4BB424C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png in Resources */ = {isa = PBXBuildFile; fileRef = 173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */; };
 		176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3C24C3607500DAD055 /* LoginViewController.swift */; };
 		176BCE3F24C364C800DAD055 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE3E24C364C800DAD055 /* SignUpViewController.swift */; };
 		176BCE4124C3654000DAD055 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4024C3654000DAD055 /* AboutViewController.swift */; };
@@ -19,9 +29,6 @@
 		176BCE4F24C3666100DAD055 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4E24C3666100DAD055 /* SettingsViewController.swift */; };
 		176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5024C3667D00DAD055 /* ForumViewController.swift */; };
 		176BCE5324C3668700DAD055 /* ResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5224C3668700DAD055 /* ResourcesViewController.swift */; };
-		BA1C713CA87823118897ABA9 /* Pods_LoremIpsum.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */; };
-		F398AC2C24C3BE1700968761 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */; };
-		F398AC2E24C3BFF400968761 /* MainForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F398AC2D24C3BFF400968761 /* MainForumViewController.swift */; };
 		F3C85A0324C3011F004DBCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */; };
 		F3C85A0524C3011F004DBCB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */; };
 		F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3C85A0624C3011F004DBCB4 /* ViewController.swift */; };
@@ -31,6 +38,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		173F4BA124C3945B00E68D4F /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
+		173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fruitvale-station-poster.jpg"; sourceTree = "<group>"; };
+		173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Artwork - WTSU.jpg"; sourceTree = "<group>"; };
+		173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "flat,750x1000,075,f.u1.jpg"; sourceTree = "<group>"; };
+		173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg"; sourceTree = "<group>"; };
+		173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg"; sourceTree = "<group>"; };
+		173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "71T+OLf3zdL._AC_SY606_.jpg"; sourceTree = "<group>"; };
+		173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg"; sourceTree = "<group>"; };
+		173F4BB124C3AADD00E68D4F /* 268x0w.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 268x0w.jpg; sourceTree = "<group>"; };
+		173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NPR_Code_Switch_cover_art.png; sourceTree = "<group>"; };
 		176BCE3C24C3607500DAD055 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		176BCE3E24C364C800DAD055 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		176BCE4024C3654000DAD055 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
@@ -43,11 +60,6 @@
 		176BCE4E24C3666100DAD055 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		176BCE5024C3667D00DAD055 /* ForumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForumViewController.swift; sourceTree = "<group>"; };
 		176BCE5224C3668700DAD055 /* ResourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesViewController.swift; sourceTree = "<group>"; };
-		1A2EA0967C56ED772ADB8B42 /* Pods-LoremIpsum.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoremIpsum.debug.xcconfig"; path = "Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum.debug.xcconfig"; sourceTree = "<group>"; };
-		1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoremIpsum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoremIpsum.release.xcconfig"; path = "Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum.release.xcconfig"; sourceTree = "<group>"; };
-		F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		F398AC2D24C3BFF400968761 /* MainForumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainForumViewController.swift; sourceTree = "<group>"; };
 		F3C859FF24C3011F004DBCB4 /* LoremIpsum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoremIpsum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3C85A0224C3011F004DBCB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,37 +75,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA1C713CA87823118897ABA9 /* Pods_LoremIpsum.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1F32BC2A8ADBA920D1C2D281 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		68A7B5C7DF5FC67C37F6D946 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				1A2EA0967C56ED772ADB8B42 /* Pods-LoremIpsum.debug.xcconfig */,
-				BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		F3C859F624C3011F004DBCB4 = {
 			isa = PBXGroup;
 			children = (
 				F3C85A0124C3011F004DBCB4 /* LoremIpsum */,
 				F3C85A0024C3011F004DBCB4 /* Products */,
-				68A7B5C7DF5FC67C37F6D946 /* Pods */,
-				1F32BC2A8ADBA920D1C2D281 /* Frameworks */,
+				173F4BA124C3945B00E68D4F /* download.jpeg */,
+				173F4BA324C394A700E68D4F /* fruitvale-station-poster.jpg */,
+				173F4BA524C395B400E68D4F /* Artwork - WTSU.jpg */,
+				173F4BA724C3967500E68D4F /* flat,750x1000,075,f.u1.jpg */,
+				173F4BA924C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg */,
+				173F4BAB24C3A7F600E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg */,
+				173F4BAD24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg */,
+				173F4BAF24C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg */,
+				173F4BB124C3AADD00E68D4F /* 268x0w.jpg */,
+				173F4BB324C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -112,7 +114,6 @@
 				F3C85A0424C3011F004DBCB4 /* SceneDelegate.swift */,
 				F3C85A0624C3011F004DBCB4 /* ViewController.swift */,
 				F3C85A0824C3011F004DBCB4 /* Main.storyboard */,
-				F398AC2D24C3BFF400968761 /* MainForumViewController.swift */,
 				176BCE5024C3667D00DAD055 /* ForumViewController.swift */,
 				176BCE5224C3668700DAD055 /* ResourcesViewController.swift */,
 				176BCE4C24C3665500DAD055 /* ModuleViewController.swift */,
@@ -127,7 +128,6 @@
 				176BCE3C24C3607500DAD055 /* LoginViewController.swift */,
 				F3C85A0B24C30122004DBCB4 /* Assets.xcassets */,
 				F3C85A0D24C30122004DBCB4 /* LaunchScreen.storyboard */,
-				F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */,
 				F3C85A1024C30122004DBCB4 /* Info.plist */,
 			);
 			path = LoremIpsum;
@@ -140,11 +140,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F3C85A1324C30122004DBCB4 /* Build configuration list for PBXNativeTarget "LoremIpsum" */;
 			buildPhases = (
-				A9907DBB748382531BF803D0 /* [CP] Check Pods Manifest.lock */,
 				F3C859FB24C3011F004DBCB4 /* Sources */,
 				F3C859FC24C3011F004DBCB4 /* Frameworks */,
 				F3C859FD24C3011F004DBCB4 /* Resources */,
-				3AE56005066F773DAE7369CE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -193,56 +191,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				173F4BA824C3967500E68D4F /* flat,750x1000,075,f.u1.jpg in Resources */,
+				173F4BB424C3AB5000E68D4F /* NPR_Code_Switch_cover_art.png in Resources */,
 				F3C85A0F24C30122004DBCB4 /* LaunchScreen.storyboard in Resources */,
-				F398AC2C24C3BE1700968761 /* GoogleService-Info.plist in Resources */,
+				173F4BAC24C3A7F700E68D4F /* MV5BZjEwN2Y4YTAtMzhlZi00MjRkLWI3YTctODVhNWZkNzQwZGIwXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY1200_CR85,0,630,1200_AL_.jpg in Resources */,
+				173F4BA624C395B400E68D4F /* Artwork - WTSU.jpg in Resources */,
+				173F4BB224C3AADD00E68D4F /* 268x0w.jpg in Resources */,
+				173F4BAA24C3A77000E68D4F /* MV5BMjAwMjU5NTAzOF5BMl5BanBnXkFtZTgwMjQwODQxMDI@._V1_.jpg in Resources */,
+				173F4BB024C3AA8A00E68D4F /* 53f49cf7-ba1b-4b0c-8651-6c49ea593d8b_square__DH_tagline__dark_gray_gradient_bg.jpg in Resources */,
+				173F4BAE24C3A92100E68D4F /* 71T+OLf3zdL._AC_SY606_.jpg in Resources */,
+				173F4BA224C3945B00E68D4F /* download.jpeg in Resources */,
 				F3C85A0C24C30122004DBCB4 /* Assets.xcassets in Resources */,
 				F3C85A0A24C3011F004DBCB4 /* Main.storyboard in Resources */,
+				173F4BA424C394A700E68D4F /* fruitvale-station-poster.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		3AE56005066F773DAE7369CE /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A9907DBB748382531BF803D0 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-LoremIpsum-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F3C859FB24C3011F004DBCB4 /* Sources */ = {
@@ -254,7 +219,6 @@
 				176BCE3D24C3607500DAD055 /* LoginViewController.swift in Sources */,
 				176BCE4D24C3665500DAD055 /* ModuleViewController.swift in Sources */,
 				176BCE4924C3660800DAD055 /* ExploreViewController.swift in Sources */,
-				F398AC2E24C3BFF400968761 /* MainForumViewController.swift in Sources */,
 				176BCE4324C3659100DAD055 /* BeginQuizViewController.swift in Sources */,
 				F3C85A0724C3011F004DBCB4 /* ViewController.swift in Sources */,
 				176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */,
@@ -406,7 +370,6 @@
 		};
 		F3C85A1424C30122004DBCB4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A2EA0967C56ED772ADB8B42 /* Pods-LoremIpsum.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -425,7 +388,6 @@
 		};
 		F3C85A1524C30122004DBCB4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
