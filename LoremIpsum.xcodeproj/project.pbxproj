@@ -19,6 +19,8 @@
 		176BCE4F24C3666100DAD055 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE4E24C3666100DAD055 /* SettingsViewController.swift */; };
 		176BCE5124C3667D00DAD055 /* ForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5024C3667D00DAD055 /* ForumViewController.swift */; };
 		176BCE5324C3668700DAD055 /* ResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176BCE5224C3668700DAD055 /* ResourcesViewController.swift */; };
+		17E785DC24C3DB55007AABB6 /* Resources in Resources */ = {isa = PBXBuildFile; fileRef = 17E785DB24C3DB55007AABB6 /* Resources */; };
+		17E785DE24C3DF63007AABB6 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 17E785DD24C3DF63007AABB6 /* 3.png */; };
 		BA1C713CA87823118897ABA9 /* Pods_LoremIpsum.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */; };
 		F398AC2C24C3BE1700968761 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F398AC2B24C3BE1700968761 /* GoogleService-Info.plist */; };
 		F398AC2E24C3BFF400968761 /* MainForumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F398AC2D24C3BFF400968761 /* MainForumViewController.swift */; };
@@ -43,6 +45,8 @@
 		176BCE4E24C3666100DAD055 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		176BCE5024C3667D00DAD055 /* ForumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForumViewController.swift; sourceTree = "<group>"; };
 		176BCE5224C3668700DAD055 /* ResourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesViewController.swift; sourceTree = "<group>"; };
+		17E785DB24C3DB55007AABB6 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
+		17E785DD24C3DF63007AABB6 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = Screens/3.png; sourceTree = "<group>"; };
 		1A2EA0967C56ED772ADB8B42 /* Pods-LoremIpsum.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoremIpsum.debug.xcconfig"; path = "Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum.debug.xcconfig"; sourceTree = "<group>"; };
 		1BBCB22F9071C3B1BF2DF2AD /* Pods_LoremIpsum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoremIpsum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE7D38CF3149C53F2C1B55D5 /* Pods-LoremIpsum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LoremIpsum.release.xcconfig"; path = "Target Support Files/Pods-LoremIpsum/Pods-LoremIpsum.release.xcconfig"; sourceTree = "<group>"; };
@@ -92,8 +96,10 @@
 			children = (
 				F3C85A0124C3011F004DBCB4 /* LoremIpsum */,
 				F3C85A0024C3011F004DBCB4 /* Products */,
+				17E785DD24C3DF63007AABB6 /* 3.png */,
 				68A7B5C7DF5FC67C37F6D946 /* Pods */,
 				1F32BC2A8ADBA920D1C2D281 /* Frameworks */,
+				17E785DB24C3DB55007AABB6 /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -196,7 +202,9 @@
 				F3C85A0F24C30122004DBCB4 /* LaunchScreen.storyboard in Resources */,
 				F398AC2C24C3BE1700968761 /* GoogleService-Info.plist in Resources */,
 				F3C85A0C24C30122004DBCB4 /* Assets.xcassets in Resources */,
+				17E785DE24C3DF63007AABB6 /* 3.png in Resources */,
 				F3C85A0A24C3011F004DBCB4 /* Main.storyboard in Resources */,
+				17E785DC24C3DB55007AABB6 /* Resources in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
